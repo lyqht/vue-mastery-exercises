@@ -16,12 +16,6 @@ const router = new Router({
       name: 'event-list',
       component: EventList,
       props: true
-      // beforeEnter(routeTo, routeFrom, next) {
-      //   const currentPage = parseInt(routeTo.query.page || 1)
-      //   store.dispatch('event/fetchEvents', {
-      //     page: currentPage
-      //   })
-      // }
     },
     {
       path: '/event/create',
