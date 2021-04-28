@@ -1,6 +1,6 @@
 # Introduction
 
-This repo hosts the Single Page Application (SPA) project that I've made following the [Real World VueJS course from Vue Mastery with #FREEWEEK2020](https://www.vuemastery.com/courses/real-world-vue-js). What makes my project is that I included Typescript 😄
+This repo hosts the Single Page Application (SPA) project that I've made following the [Real World VueJS course from Vue Mastery with #FREEWEEK2020](https://www.vuemastery.com/courses/real-world-vue-js). What makes my project special is that I included Typescript 😄
 
 Source Code for Real World Vue Course can be found [here](https://github.com/Code-Pop/real-world-vue).
 
